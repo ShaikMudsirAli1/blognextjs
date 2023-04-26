@@ -1,0 +1,15 @@
+
+  $ Install Tailwind CSS with Next.js
+  
+ //url: https://tailwindcss.com/docs/guides/nextjs
+
+ *********** Using yarn package manager with nextjs app. ***********
+
+PS C:\Users\SMA\OneDrive\Desktop\blognextjs>  Get-History                                               
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\SMA\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\c... 
+   2 yarn create next-app
+   3 cls
+   4 yarn create next-app
+   5 Git-History
